@@ -93,6 +93,7 @@
         android:layout_marginTop="16dp"
         android:background="@drawable/bg_input_field"
         android:hint="********"
+        android:inputType="textPassword"
         android:padding="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.477"
